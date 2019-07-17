@@ -4,9 +4,6 @@ import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by jt on 5/16/17.
- */
 @Entity
 public class Author {
 
